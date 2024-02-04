@@ -1,0 +1,9 @@
+black
+chardet
+click
+mypy-extensions
+packaging
+pathspec
+platformdirs
+setuptools
+wheel
